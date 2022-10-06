@@ -5,12 +5,14 @@
 
 # Branch
 
-## Heading2
+## Changed heading 2
 
-Pass off first commit
+Second commit second merge!
 
 Commit 1
 
 Commit 2
-
+Insert something here
 ???
+
+Final commit!
