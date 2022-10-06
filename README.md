@@ -5,7 +5,7 @@
 
 # Branch
 
-## Heading2
+## Changed heading 2
 
 Pass off first commit
 
