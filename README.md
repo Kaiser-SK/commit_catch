@@ -7,7 +7,7 @@
 
 ## Changed heading 2
 
-Pass off first commit
+Second commit second merge!
 
 Commit 1
 
